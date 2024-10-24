@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, java, appdeveploping, webdeveloping**
 
-- 📫 How to reach me **ahamedismail12345@gmail.com**
+- 📫 How to reach me **ahamedismail12345@gmail.com / +94 075 2236 387**
 
 - ⚡ Fun fact **Call me as Ismail**
 
