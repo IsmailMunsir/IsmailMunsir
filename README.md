@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/ahamed ismail](https://www.linkedin.com/in/ahamed-ismail-5ab879212/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahamed ismail" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahamed ismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahamed ismail" height="30" width="40" /></a>
 <a href="https://fb.com/ahamed ismial mohamed munsir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahamed ismial mohamed munsir" height="30" width="40" /></a>
 <a href="https://instagram.com/ahamed_ismial_mohamed_munsir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahamed_ismial_mohamed_munsir" height="30" width="40" /></a>
 </p>
