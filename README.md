@@ -1,39 +1,79 @@
-<h1>Hi 👋, I'm Ahamed Ismail</h1>
-<p>🚀 About Me 🔹 Tech Innovator | ☁ Cloud & AI Strategist | 🖥 Full-Stack Engineer  ⚡ Expertise: System Engineering | Cloud Computing | AI | Data Visualization 🎯 Skills: Web & Mobile Development | UI/UX | Scalable Architecture | Database Optimization 🧠 Mindset: Analytical Thinker | Problem-Solver | Innovation-Driven 🌍 Passion: Transforming ideas into impactful digital solutions through cutting-edge technology  📌 Driven to build, optimize, and innovate for a smarter future! 🚀</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href=""></a></li>
-<li><a target="_blank" href=""></a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/Ahamed (Mohamed Munsir Ahamed Ismail) Ismail " style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/Ahamed Ismail " style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/ah_ismail________" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="undefinedahamed ismail" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=IsmailMunsir&show_icons=true&locale=en" alt="IsmailMunsir" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IsmailMunsir&" alt="IsmailMunsir" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsmailMunsir&show_icons=true&locale=en&layout=compact" alt="IsmailMunsir" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IsmailMunsir" alt="IsmailMunsir" /></a></p>
+<h1 align="center">👋 Hi, I'm Ahamed Ismail</h1>
+
+<p align="center">
+  <strong>Cloud & AI Strategist</strong> | <strong>Full-Stack Software Engineer</strong> | <strong>Tech Visionary</strong><br />
+  Focused on delivering innovative, scalable, and impactful digital solutions 🚀
+</p>
+
+---
+
+## 🧠 About Me
+
+BSc (Hons) Software Engineering student at Cardiff Metropolitan University with a practical mindset and a strategic approach to digital problem-solving. Experienced in developing full-stack solutions, managing systems, and architecting cloud and AI-powered applications. My work spans from startups to large systems across multiple domains, including security, retail, and heritage platforms.
+
+---
+
+## 🛠️ Technical Stack
+
+### 🌐 Frontend  
+`React` • `Next.js` • `Vue` • `HTML` • `CSS` • `JavaScript` • `TypeScript`
+
+### 🧰 Backend & APIs  
+`Node.js` • `PHP` • `Java` • `C++` • `Python` • `SQL` • `MongoDB` • `MySQL` • `PostgreSQL`
+
+### ☁️ Cloud & DevOps  
+`XAMPP` • `VMware` • `Apache` • `GitHub` • `Postman` • `Git` • `Netlify`
+
+### 🧑‍🎨 UI/UX & Tools  
+`Figma` • `Canva` • `VS Code` • `IntelliJ` • `Android Studio`
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **SL Heritoria** – Heritage marketplace & admin panel using PHP, JS, SQL, HTML/CSS  
+🔹 **The Gallery Cafe** – Full-stack website for heritage & food service management  
+🔹 **Dog Nutrition App** – Android e-commerce and education app with Java  
+🔹 **Bakery/Bookshop Management** – C++ CRUD apps for inventory and orders  
+🔹 **HR & Hotel Management** – Admin dashboards built with Java and SQL
+
+---
+
+## 🎓 Education
+
+- 🎓 **BSc (Hons) in Software Engineering** – Cardiff Metropolitan University *(Feb 2025 – Jun 2026)*
+- 🎓 **Higher National Diploma** – Software Engineering *(Mar 2023 – Mar 2025)*
+- 🎓 **Diploma in IT** – BCAS Campus *(Jan 2022 – Apr 2022)*
+- 🎓 **Web Development (Short Course)** – IIT Campus *(Jun 2024)*
+- 🎓 **O/L** – KMCC *(2009 – 2020)*
+
+---
+
+## 💼 Work Experience
+
+- **Associate Full Stack Developer** – Noodlecode *(May 2025 – Present)*
+- **Full Stack Developer** – Noodlecode *(Sep 2024 – Present)*
+- **System Engineer** – QTECH CCTV, Intellect Marketing *(Aug 2023 – Present)*
+- **Data Entry Clerk** – Bharti Airtel Lanka *(May 2024 – Jun 2024)*
+- **Data Entry Clerk** – Macks Marketing Pvt Ltd *(Feb 2023 – Dec 2023)*
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahamed-ismail-5ab879212" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ah_ismail________" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:ahamedismail12345@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ismailmunsir.github.io/Ahamed_Ismail_Profile/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
