@@ -1,79 +1,79 @@
-<h1 align="center">👋 Hi, I'm Ahamed Ismail</h1>
+<h1 align="center">Hi, I'm Ahamed Ismail 👋</h1>
 
 <p align="center">
-  <strong>Cloud & AI Strategist</strong> | <strong>Full-Stack Software Engineer</strong> | <strong>Tech Visionary</strong><br />
-  Focused on delivering innovative, scalable, and impactful digital solutions 🚀
+  <strong>Software Engineering Undergraduate</strong> | 
+  <strong>Cloud & Systems Enthusiast</strong> | 
+  <strong>Full-Stack Developer</strong>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-BSc (Hons) Software Engineering student at Cardiff Metropolitan University with a practical mindset and a strategic approach to digital problem-solving. Experienced in developing full-stack solutions, managing systems, and architecting cloud and AI-powered applications. My work spans from startups to large systems across multiple domains, including security, retail, and heritage platforms.
+I am a BSc (Hons) Software Engineering undergraduate at Cardiff Metropolitan University with strong interests in cloud computing, system administration, and scalable application development. 
+
+I enjoy building full-stack applications, managing databases, working with virtualization environments, and designing practical solutions that solve real-world problems. My goal is to grow into a cloud and infrastructure-focused engineering role while continuously strengthening my foundations in systems, networking, and security.
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Skills
 
 ### 🌐 Frontend  
-`React` • `Next.js` • `Vue` • `HTML` • `CSS` • `JavaScript` • `TypeScript`
+React • Next.js • HTML • CSS • JavaScript • TypeScript
 
-### 🧰 Backend & APIs  
-`Node.js` • `PHP` • `Java` • `C++` • `Python` • `SQL` • `MongoDB` • `MySQL` • `PostgreSQL`
+### 🧰 Backend & Databases  
+Node.js • PHP • Java • Python • C++  
+MySQL • MongoDB • PostgreSQL • SQL
 
-### ☁️ Cloud & DevOps  
-`XAMPP` • `VMware` • `Apache` • `GitHub` • `Postman` • `Git` • `Netlify`
+### 🖥️ Systems & Infrastructure  
+Windows Environment • Linux Basics • VMware Workstation • Apache  
+Networking Fundamentals (TCP/IP, HTTP/S, SFTP)  
+Git • GitHub • Postman
 
-### 🧑‍🎨 UI/UX & Tools  
-`Figma` • `Canva` • `VS Code` • `IntelliJ` • `Android Studio`
+### 🎨 Tools & Design  
+VS Code • IntelliJ • Android Studio • Figma • Canva
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Projects
 
-🔹 **SL Heritoria** – Heritage marketplace & admin panel using PHP, JS, SQL, HTML/CSS  
-🔹 **The Gallery Cafe** – Full-stack website for heritage & food service management  
-🔹 **Dog Nutrition App** – Android e-commerce and education app with Java  
-🔹 **Bakery/Bookshop Management** – C++ CRUD apps for inventory and orders  
-🔹 **HR & Hotel Management** – Admin dashboards built with Java and SQL
+🔹 **SL Heritoria**  
+Multi-vendor e-commerce platform with admin panel using PHP, JavaScript, and MySQL. Implemented authentication, role-based access control, and database management.
+
+🔹 **The Gallery Cafe**  
+Full-stack web application with user authentication, booking system, and backend database integration.
+
+🔹 **BookMyTrain – Reservation System**  
+Multi-role booking platform with admin dashboard, seat management, and real-time database updates.
+
+🔹 **Inventory & Management Systems (C++)**  
+Developed CRUD-based management systems for business operations and order handling.
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **BSc (Hons) in Software Engineering** – Cardiff Metropolitan University *(Feb 2025 – Jun 2026)*
-- 🎓 **Higher National Diploma** – Software Engineering *(Mar 2023 – Mar 2025)*
-- 🎓 **Diploma in IT** – BCAS Campus *(Jan 2022 – Apr 2022)*
-- 🎓 **Web Development (Short Course)** – IIT Campus *(Jun 2024)*
-- 🎓 **O/L** – KMCC *(2009 – 2020)*
+🎓 **BSc (Hons) Software Engineering** – Cardiff Metropolitan University  
+🎓 **Higher National Diploma in Software Engineering**  
+🎓 Diploma in IT  
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-- **Associate Full Stack Developer** – Noodlecode *(May 2025 – Present)*
-- **Full Stack Developer** – Noodlecode *(Sep 2024 – Present)*
-- **System Engineer** – QTECH CCTV, Intellect Marketing *(Aug 2023 – Present)*
-- **Data Entry Clerk** – Bharti Airtel Lanka *(May 2024 – Jun 2024)*
-- **Data Entry Clerk** – Macks Marketing Pvt Ltd *(Feb 2023 – Dec 2023)*
+**Associate Full Stack Developer – Noodlecode**  
+Worked on dynamic web applications, API integrations, and database-driven systems.
 
----
+**System Engineer – QTECH CCTV / Intellect Marketing**  
+Supported system setup, technical troubleshooting, and infrastructure-related tasks.
 
-## 🌐 Let’s Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahamed-ismail-5ab879212" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/ah_ismail________" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:ahamedismail12345@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://ismailmunsir.github.io/Ahamed_Ismail_Profile/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+**Data Entry & Administrative Roles**  
+Maintained data accuracy and supported operational workflows in corporate environments.
 
 ---
+
+## 🌐 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/ahamed-ismail-5ab879212  
+Portfolio: https://ismailmunsir.github.io/Ahamed_Ismail_Profile/  
+Email: ahamedismail12345@gmail.com
